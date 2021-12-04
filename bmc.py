@@ -27,7 +27,7 @@ def kontol():
 \x1b[1;91m  •\x1b[1;93m•\x1b[1;92m•\x1b[1;97m ╚═╝░░╚═╝╚═╝░░╚══╝░╚═════╝░░╚═════╝░╚═╝░░╚═╝\x1b[1;92m •\x1b[1;93m•\x1b[1;91m•
 \x1b[1;94m────────────────────────────────────────────────────
 \x1b[1;97m [\x1b[1;94m\x1b[1;92m◍➤\x1b[1;97m] Author   : Bangsat Militan ☆
-\x1b[1;97m [\x1b[1;92m\x1b[1;94m◍➤\x1b[1;97m] Github   : Github.com/Bajingan-Z
+\x1b[1;97m [\x1b[1;94m\x1b[1;92m◍➤\x1b[1;97m] Github   : Github.com/Bajingan-Z
 \x1b[1;97m [\x1b[1;94m\x1b[1;92m◍➤\x1b[1;97m] Facebook : Angga
 \x1b[1;97m [\x1b[1;94m\x1b[1;92m◍➤\x1b[1;97m] Youtube  : Angga-Z ™
 \x1b[1;94m────────────────────────────────────────────────────""")
@@ -41,7 +41,7 @@ def jembut():
 \x1b[1;91m  •\x1b[1;93m•\x1b[1;92m•\x1b[1;97m ╚═╝░░╚═╝╚═╝░░╚══╝░╚═════╝░░╚═════╝░╚═╝░░╚═╝\x1b[1;92m •\x1b[1;93m•\x1b[1;91m•
 \x1b[1;94m────────────────────────────────────────────────────
 \x1b[1;97m [\x1b[1;94m\x1b[1;92m◍➤\x1b[1;97m] Author   : Bangsat Militan ☆
-\x1b[1;97m [\x1b[1;92m\x1b[1;94m◍➤\x1b[1;97m] Github   : Github.com/Bajingan-Z
+\x1b[1;97m [\x1b[1;94m\x1b[1;92m◍➤\x1b[1;97m] Github   : Github.com/Bajingan-Z
 \x1b[1;97m [\x1b[1;94m\x1b[1;92m◍➤\x1b[1;97m] Facebook : Angga
 \x1b[1;97m [\x1b[1;94m\x1b[1;92m◍➤\x1b[1;97m] Youtube  : Angga-Z ™
 \x1b[1;94m────────────────────────────────────────────────────""")
@@ -56,7 +56,7 @@ def moch_yayan():
     time.sleep(0.1)
     print("\033[97m [\033[96m01\033[97m] Start Crack")
     print("\033[97m [\033[96m02\033[97m] Tutorial Mengambil Cookie Fb")
-    print("\033[97m [\033[91m00\033[97m] Keluar (Ahh Ngecrot)")
+    print("\033[97m [\033[91m00\033[97m] Keluar (Hapus Cookie)")
     print("\x1b[1;94m────────────────────────────────────────────────────")
     time.sleep(0.1)
 
