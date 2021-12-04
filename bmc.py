@@ -19,12 +19,12 @@ def aahh(s):
         time.sleep(1./300)
 def kontol():
     time.sleep(0.3)
-    aahh("""\n\x1b[1;91m      ██████╗██████╗ ██╗  ██╗ ██████╗██╗  ██╗
-     ██╔════╝██╔══██╗██║  ██║██╔════╝██║ ██╔╝
-     ██║     ██████╔╝███████║██║     █████╔╝ 
-\x1b[1;97m     ██║     ██╔══██╗╚════██║██║     ██╔═██╗ 
-     ╚██████╗██║  ██║     ██║╚██████╗██║  ██╗
-\x1b[1;91m  •\x1b[1;93m•\x1b[1;92m•\x1b[1;97m ╚═════╝╚═╝  ╚═╝     ╚═╝ ╚═════╝╚═╝  ╚═╝\x1b[1;92m •\x1b[1;93m•\x1b[1;91m•
+    aahh("""\n\x1b[1;91m      ░█████╗░███╗░░██╗░██████╗░░██████╗░░█████╗░
+                  ██╔══██╗████╗░██║██╔════╝░██╔════╝░██╔══██╗
+                  ███████║██╔██╗██║██║░░██╗░██║░░██╗░███████║
+            \x1b[1;97m      ██╔══██║██║╚████║██║░░╚██╗██║░░╚██╗██╔══██║
+                  ██║░░██║██║░╚███║╚██████╔╝╚██████╔╝██║░░██║
+\x1b[1;91m  •\x1b[1;93m•\x1b[1;92m•\x1b[1;97m ╚═╝░░╚═╝╚═╝░░╚══╝░╚═════╝░░╚═════╝░╚═╝░░╚═╝\x1b[1;92m •\x1b[1;93m•\x1b[1;91m•
 \x1b[1;94m────────────────────────────────────────────────────
 \x1b[1;97m [\x1b[1;94m\x1b[1;92m•\x1b[1;97m] Author   : Bangsat Militan ☆
 \x1b[1;97m [\x1b[1;92m•\x1b[1;94m\x1b[1;97m] Github   : Github.com/Bajingan-Z
@@ -100,7 +100,7 @@ def moch_yayan():
                   os.system("xdg-open https://youtube.com/channel/UCghCSwtmFW_eq0-Jyw9KxEA") 
                   os.system('rm -rf cookies')
                   print(" \n \x1b[1;97m[\x1b[1;91m!\x1b[1;97m] Cookie Error Kentod!!")
-                  os.system('python Cr4ck.py')
+                  os.system('python Bmc.py')
          def login(username,password,cek=False):
              global die,check,result,count
              b = "350685531728%7C62f8ce9f74b12f84c123cc23437a4a32"
