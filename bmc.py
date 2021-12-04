@@ -29,6 +29,7 @@ def kontol():
 \x1b[1;97m [\x1b[1;94m\x1b[1;92m•\x1b[1;97m] Author   : Bangsat Militan ☆
 \x1b[1;97m [\x1b[1;92m•\x1b[1;94m\x1b[1;97m] Github   : Github.com/Bajingan-Z
 \x1b[1;97m [\x1b[1;94m\x1b[1;92m•\x1b[1;97m] Facebook : Angga
+\x1b[1;97m [\x1b[1;94m\x1b[1;92m•\x1b[1;97m] Youtube  : Angga-Z ™
 \x1b[1;94m────────────────────────────────────────────────────""")
 
 def jembut():
@@ -39,9 +40,10 @@ def jembut():
       ██║░░██║██║░╚███║╚██████╔╝╚██████╔╝██║░░██║
 \x1b[1;91m  •\x1b[1;93m•\x1b[1;92m•\x1b[1;97m ╚═╝░░╚═╝╚═╝░░╚══╝░╚═════╝░░╚═════╝░╚═╝░░╚═╝\x1b[1;92m •\x1b[1;93m•\x1b[1;91m•
 \x1b[1;94m────────────────────────────────────────────────────
-\x1b[1;97m [\x1b[1;92m•\x1b[1;97m] Author   : Bangsat Militan ☆
-\x1b[1;97m [\x1b[1;92m•\x1b[1;97m] Github   : Github.com/Bajingan-Z
-\x1b[1;97m [\x1b[1;92m•\x1b[1;97m] Facebook : Angga
+\x1b[1;97m [\x1b[1;94m\x1b[1;92m•\x1b[1;97m] Author   : Bangsat Militan ☆
+\x1b[1;97m [\x1b[1;94m\x1b[1;92m•\x1b[1;97m] Github   : Github.com/Bajingan-Z
+\x1b[1;97m [\x1b[1;94m\x1b[1;92m•\x1b[1;97m] Facebook : Angga
+\x1b[1;97m [\x1b[1;94m\x1b[1;92m•\x1b[1;97m] Youtube  : Angga-Z ™
 \x1b[1;94m────────────────────────────────────────────────────""")
 
 def yayanxd():
