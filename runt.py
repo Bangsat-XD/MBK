@@ -21,13 +21,12 @@ Dan Jika Ingin Di Ganti Izin Dulu :v
 
 
 #####################################
-logo = ("
-\x1b[1;96m◍➤[\x1b[1;97m☆\x1b[1;96m]\x1b[1;97m——————————————————————————————————————————————
-\x1b[1;95m◍➤[\x1b[1;97m☆\x1b[1;95m]\x1b[1;97m Autor     : Angga ™
-\x1b[1;95m◍➤[\x1b[1;97m☆\x1b[1;95m]\x1b[1;97m Github    : https://github.com/Bajingan-Z
-\x1b[1;95m◍➤[\x1b[1;97m☆\x1b[1;95m]\x1b[1;97m Facebook  : fb.com/PEMUDA.KALEUM
-\x1b[1;95m◍➤[\x1b[1;97m☆\x1b[1;95m]\x1b[1;97m Youtube   : Angga-Z
-\x1b[1;96m◍➤[\x1b[1;97m☆\x1b[1;96m]\x1b[1;97m——————————————————————————————————————————————
+logo = ("\x1b[1;96m[\x1b[1;97m☆\x1b[1;96m]\x1b[1;97m——————————————————————————————————————————————
+\x1b[1;95m[\x1b[1;97m☆\x1b[1;95m]\x1b[1;97m Autor     : Angga ™
+\x1b[1;95m[\x1b[1;97m☆\x1b[1;95m]\x1b[1;97m Github    : https://github.com/Bajingan-Z
+\x1b[1;95m[\x1b[1;97m☆\x1b[1;95m]\x1b[1;97m Facebook  : fb.com/PEMUDA.KALEUM
+\x1b[1;95m[\x1b[1;97m☆\x1b[1;95m]\x1b[1;97m Youtube   : Angga-Z
+\x1b[1;96m[\x1b[1;97m☆\x1b[1;96m]\x1b[1;97m——————————————————————————————————————————————
 """)
 url=('http://ipinfo.io/json')
 response=urlopen(url)
