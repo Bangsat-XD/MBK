@@ -328,7 +328,7 @@ def daftar_menu():
 	elif pilih == "9":
 		print("\x1b[1;92m[\x1b[1;97m•\x1b[1;92m]\x1b[1;97m Anda Akan Diarahkan Ke Whatsapp")
 		time.sleep(3)
-		os.system("xdg-open https://wa.me/6285727173376?text=Hallo%20Bang%20Rozhak")
+		os.system("xdg-open https://www.facebook.com/PEMUDA.KALEUM")
 		exit()
 	elif pilih == "0":
 		try:
