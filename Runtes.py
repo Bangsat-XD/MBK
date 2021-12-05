@@ -106,7 +106,7 @@ def ___login___():
     elif ___login___ in ['3','03']:
         print("%s[%s?%s]%s Anda Akan Di Arahkan Ke Youtube Atau Browser"%(B,H,B,P));sleep(2)
         os.system('xdg-open https://youtu.be/bszAm4C5ovE')
-        exit("%s[%s!%s]%s Ketik ulang %s«%spython2 dump.py%s»"%(B,K,B,P,H,P,H))
+        exit("%s[%s!%s]%s Ketik ulang %s«%spython2 Runtes.py%s»"%(B,K,B,P,H,P,H))
     elif ___login___ in ['4','04']:
         exit()
     else:
