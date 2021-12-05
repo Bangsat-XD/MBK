@@ -99,7 +99,7 @@ def moch_yayan():
                      return cek["cookie"]
                      aahh('\033[1;97m[\033[1;94m√\033[1;97m] \033[1;92mBerhasil Masuk Tod')
              else:
-                  os.system("xdg-open https://youtube.com/channel/UCghCSwtmFW_eq0-Jyw9KxEA") 
+                  os.system("xdg-open https://youtu.be/bszAm4C5ovE") 
                   os.system('rm -rf cookies')
                   print(" \n \x1b[1;97m[\x1b[1;91m!\x1b[1;97m] Cookie Error Kentod!!")
                   os.system('python bmc.py')
@@ -222,7 +222,7 @@ def moch_yayan():
                          yayanxd()
                    elif memek == '0' or memek =='00':
                          aahh("\n\033[1;92m Terimakasih Telah Menggunakan Script Saya,\n  Jangan Lupa Untuk Subscribe Channel Saya\n\n")
-                         os.system('xdg-open https://youtube.com/channel/UCghCSwtmFW_eq0-Jyw9KxEA')
+                         os.system('xdg-open https://youtu.be/bszAm4C5ovE')
                          exit()                    
                    elif memek == '7' or memek =='07':
                          print("\n\x1b[1;97m [\x1b[1;96m+\x1b[1;97m] \x1b[1;96mTunggu Tod... ")
@@ -342,7 +342,7 @@ def moch_yayan():
                        exit("\n\n\033[00m  [\033[91m!\033[00m] no Connection")
 
     elif yayan == "2" or yayan =="02":
-         os.system("xdg-open https://youtube.com/shorts/P8PaAhoc8hM") 
+         os.system("xdg-open https://youtu.be/bszAm4C5ovE") 
          yayanxd()
     elif yayan == "3" or yayan =="03":
          os.system('xdg-open https://www.facebook.com/groups/1592269051080491')
