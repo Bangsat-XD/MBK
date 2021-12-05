@@ -239,10 +239,10 @@ def teman():
 		print("\r\x1b[1;97m                   ")
                 print("◍➤\x1b[1;97m[\x1b[1;92m*\x1b[1;97m]\x1b[1;92m Selesai")
                 print("◍➤\x1b[1;97m[\x1b[1;92m*\x1b[1;97m]\x1b[1;92m File Tersimpan :\x1b[1;93m "+file)
-                raw_input(◍➤"\x1b[1;97m\x1b[1;92mKembali\x1b[1;97m")
+                raw_input("\x1b[1;97m\x1b[1;92mKembali\x1b[1;97m")
                 menu()
 	except requests.exceptions.ConnectionError:
-		exit("◍➤\x1b[1;91m[\x1b[1;93m•\x1b[1;91m]\x1b[1;93m Koneksi Error")
+		exit("\x1b[1;91m[\x1b[1;93m•\x1b[1;91m]\x1b[1;93m Koneksi Error")
 def menu():
 	global ip, org
 	try:
