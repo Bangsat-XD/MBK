@@ -26,9 +26,9 @@ logo = ("""\x1b[1;92m ___ ___ ___ __  __ ___ _   _ __  __
 \x1b[1;96m|  _/   / _|| |\/| || || |_| | |\/| |
 \x1b[1;96m|_| |_|_\___|_|  |_|___|\___/|_|  |_|
 \x1b[1;96m[\x1b[1;97m#\x1b[1;96m]\x1b[1;97m——————————————————————————————
-\x1b[1;95m[\x1b[1;97m•\x1b[1;95m]\x1b[1;97m au : Angga
-\x1b[1;95m[\x1b[1;97m•\x1b[1;95m]\x1b[1;97m fb : fb.com/angga
-\x1b[1;95m[\x1b[1;97m•\x1b[1;95m]\x1b[1;97m gh : github.com/Bajingan-Z
+\x1b[1;95m[\x1b[1;97m•\x1b[1;95m]\x1b[1;97m Autor    : Angga ™
+\x1b[1;95m[\x1b[1;97m•\x1b[1;95m]\x1b[1;97m Facebook : fb.com/PEMUDA.KALEUM
+\x1b[1;95m[\x1b[1;97m•\x1b[1;95m]\x1b[1;97m Github   : Bajingan-Z
 \x1b[1;96m[\x1b[1;97m#\x1b[1;96m]\x1b[1;97m——————————————————————————————
 """)
 url=('http://ipinfo.io/json')
