@@ -271,7 +271,7 @@ def menu():
 	print("\x1b[1;92m[\x1b[1;97m*\x1b[1;92m]\x1b[1;97m Ip : "+ip)
 	print("\x1b[1;92m[\x1b[1;97m*\x1b[1;92m]\x1b[1;97m Org : "+org)
 
-	print("\n\x1b[1;97m[\x1b[1;96m1\x1b[1;97m]\x1b[1;96m Crack Instagram (\x1b[1;91mERROR FILE\x1b[1;97m)")
+	print("\n\x1b[1;97m[\x1b[1;96m1\x1b[1;97m]\x1b[1;96m Crack Instagram\x1b[1;97m (\x1b[1;91mERROR FILE\x1b[1;97m)")
 	print("\x1b[1;96m[\x1b[1;97m2\x1b[1;96m]\x1b[1;97m Dump ID Publik (dump fast)")
 	print("\x1b[1;96m[\x1b[1;97m3\x1b[1;96m]\x1b[1;97m Dump ID Like Post (dump fast)")
 	print("\x1b[1;96m[\x1b[1;97m4\x1b[1;96m]\x1b[1;97m Dump ID Follower (dump fast)")
