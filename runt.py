@@ -4,7 +4,6 @@ import requests,sys,random,re,base64,json
 from multiprocessing.pool import ThreadPool
 from requests.exceptions import ConnectionError
 from bs4 import BeautifulSoup as parser
-from menu_instagram import menu_instagram
 from urllib2 import urlopen
 from cek_opsi import cek_opsi
 reload(sys)
