@@ -272,7 +272,7 @@ def menu():
 	print("\x1b[1;92m[\x1b[1;97m*\x1b[1;92m]\x1b[1;97m Org : "+org)
 
 	print("\n\x1b[1;97m[\x1b[1;96m1\x1b[1;97m]\x1b[1;91m Crack Instagram\x1b[1;97m (\x1b[1;91mERROR FILE\x1b[1;97m)")
-	print("\x1b[1;96m[\x1b[1;97m2\x1b[1;96m]\x1b[1;97m Dump ID Publik (dump fast)")
+	print("\x1b[1;96m[\x1b[1;97m1\x1b[1;96m]\x1b[1;97m Dump ID Publik (dump fast)")
 	print("\x1b[1;96m[\x1b[1;97m3\x1b[1;96m]\x1b[1;97m Dump ID Like Post (dump fast)")
 	print("\x1b[1;96m[\x1b[1;97m4\x1b[1;96m]\x1b[1;97m Dump ID Follower (dump fast)")
 	print("\x1b[1;96m[\x1b[1;97m5\x1b[1;96m]\x1b[1;97m Dump ID Teman (dump fast)")
@@ -286,9 +286,9 @@ def daftar_menu():
 	pilih = raw_input("\n\x1b[1;96m[\x1b[1;97m#\x1b[1;96m]\x1b[1;97m Choose :\x1b[1;96m ")
 	if pilih == "":
 		exit("\x1b[1;93m[\x1b[1;91m•\x1b[1;93m]\x1b[1;91m Wrong Input")
-	elif pilih == "1":
+	elif pilih == " ":
 		menu_instagram()
-	elif pilih == "2":
+	elif pilih == "1":
 		publik()
 	elif pilih == "3":
 		like_post()
